@@ -15,7 +15,7 @@ By analyzing the Top 100 ranking videos in the Knowledge Section, I discovered a
 **Figure 1: Engagement Distribution (Duration vs. Coin Rate)**
 The scatter plot below shows that *Short Content* struggles to convert views into hard currency (Coins), whereas *Medium-to-Long Content* drives higher user commitment.
 
-![Analysis Chart](./images/Scatter_Plot.jpg)
+![Analysis Chart](./Scatter_Plot.jpg)
 
 ### 3. Tech Stack & Methodology
 *   **Data Acquisition:** Python (`requests`, `pandas`) script with anti-bot bypass to fetch Ranking V2 API data.
